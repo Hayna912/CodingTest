@@ -1,0 +1,114 @@
+{
+    "apiData" : [
+        {
+          "firstSection": "LIFESTYLE",
+          "parts": [
+            {
+              "heading": "FASHION",
+              "hero_img": "images/fas.jpg",
+              "news1": "This is the shorthand for flex-grow",
+              "news2": "Queen Elizabeth celebrates 96th birthday",
+              "news3": "Are Rolex watches out of stock",
+              "news4": "Shahid pulls out all fashion stops with his stylish new looks"
+            },
+            {
+              "heading": "TRAVEL",
+              "hero_img": "images/sun.jpg",
+              "news1": "Worlds longest wooden rollercoaster all set Go longer",
+              "news2": "Kerala tourism department sets up floating bridge at Beypore beach",
+              "news3": "Business graduate quits in Scotland first hostel",
+              "news4": "Travel to McLeodganj from Dharamshala in 5 minutes."
+            },
+            {
+              "heading": "BEAUTY",
+              "hero_img": "images/faith.jpg",
+              "news1": "A French-girl guide to getting lipstick right",
+              "news2": "The Mental Health benefits of spring cleaning",
+              "news3": "Five bridal beauty lessons to learn from Alia Bhatt",
+              "news4": "Eat Healthy"
+            },
+            {
+              "heading": "BEAUTY",
+              "hero_img": "images/faith.jpg",
+              "news1": "A French-girl guide to getting lipstick right",
+              "news2": "The Mental Health benefits of spring cleaning",
+              "news3": "Five bridal beauty lessons to learn from Alia Bhatt",
+              "news4": "Eat Healthy"
+            }
+          ]
+        },
+        {
+          "secondSection": "ENTERTAINMENT",
+          "parts": [
+            {
+              "heading": "FASHION",
+              "news1": "This is the shorthand for flex-grow",
+              "news2": "Queen Elizabeth celebrates 96th birthday",
+              "news3": "Are Rolex watches out of stock",
+              "news4": "Shahid pulls out all fashion stops with his stylish new looks"
+            }
+          ]
+        }
+      
+      ],
+     "liveNews" : [
+        {
+          "live": "An apple a day keeps the doctor away.",
+          "img": "images/pineapple.jpg"
+        },
+        {
+          "live": "It's better to be safe than sorry",
+          "img": "images/pineapple.jpg"
+        },
+        {
+          "live": "Actions speak louder than words",
+          "img": "images/pineapple.jpg"
+        },
+        {
+          "live": "Don't judge a book by its cover.",
+          "img": "images/pineapple.jpg"
+        },
+        {
+          "live": "Cleanliness is next to Godliness",
+          "img": "images/pineapple.jpg"
+        },
+        {
+          "live": "The Mental Health benefits of spring cleaning",
+          "img": "images/pineapple.jpg"
+        },
+        {
+          "live": "The early bird catches the worm",
+          "img": "images/pineapple.jpg"
+        },
+        {
+          "live": "Eat Healthy",
+          "img": "images/pineapple.jpg"
+        },
+        {
+          "live": "A picture is worth a thousand words",
+          "img": "images/pineapple.jpg"
+        },
+        {
+          "live": "All good things must come to an end",
+          "img": "images/pineapple.jpg"
+        },
+        {
+          "live": "The Mental Health benefits of spring cleaning",
+          "img": "images/pineapple.jpg"
+        },
+        {
+          "live": "The early bird catches the worm",
+          "img": "images/pineapple.jpg"
+        },
+        {
+          "live": "The Mental Health benefits of spring cleaning",
+          "img": "images/pineapple.jpg"
+        },
+        {
+          "live": "The early bird catches the worm",
+          "img": "images/pineapple.jpg"
+        }
+      
+      ]
+}
+
